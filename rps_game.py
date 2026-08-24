@@ -9,7 +9,7 @@ print("You chose:",user_choice)
 
 import random 
 
-cholices = ["rock","paper","scissors"]
+choices = ["rock","paper","scissors"]
 computer_choice = random.choice(choices)
 
 print("Computer chose:",computer_choice)
